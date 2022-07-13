@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
   <name>ExtraSecurity (Continued)</name>
   <packageId>Mlie.ExtraSecurity</packageId>
@@ -12,7 +12,7 @@
   <modDependencies />
   <loadAfter />
   <description>[img]https://i.imgur.com/buuPQel.png[/img]
-Update of BoeDankless mod
+Update of BoeDankles mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=2086426386
 
 [img]https://i.imgur.com/pufA0kM.png[/img]
@@ -21,6 +21,10 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=2086426386
     [tr]
         [td][url=https://invite.gg/Mlie][img]https://i.imgur.com/zdzzBrc.png[/img][/url][/td]
         [td][url=https://github.com/emipa606/ExtraSecurity][img]https://i.imgur.com/kTkpTOE.png[/img][/url][/td]
+    [/tr]
+    [tr]
+        [td][img]https://i.imgur.com/WjDSfUn.png[/img][/td]
+        [td][img]https://i.imgur.com/Be8E2qJ.png[/img][/td]
     [/tr]
 [/table]
 	
@@ -70,4 +74,3 @@ This mod adds 3 new floor traps, as well as a new short-ranged turret to the ava
 [/list]
 </description>
 </ModMetaData>
-
