@@ -2,7 +2,7 @@
 
 ![Image](https://i.imgur.com/buuPQel.png)
 
-Update of BoeDankless mod
+Update of BoeDankles mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=2086426386
 
 ![Image](https://i.imgur.com/pufA0kM.png)
@@ -54,6 +54,7 @@ This mod adds 3 new floor traps, as well as a new short-ranged turret to the ava
 -  For best support, please use the Discord-channel for error-reporting.
 -  Do not report errors by making a discussion-thread, I get no notification of that.
 -  If you have the solution for a problem, please post it to the GitHub repository.
+
 
 
 

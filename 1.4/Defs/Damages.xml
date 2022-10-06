@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <DamageDef ParentName="Bomb">
+    <defName>ClusterBomb</defName>
+    <defaultDamage>25</defaultDamage>
+    <buildingDamageFactor>1.5</buildingDamageFactor>
+  </DamageDef>
+</Defs>
