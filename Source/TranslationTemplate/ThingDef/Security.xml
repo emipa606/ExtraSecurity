@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: chemfuel puddle -->
+  <ChemfuelPuddle.label>chemfuel puddle</ChemfuelPuddle.label>
+  <!-- EN: A puddle of sticky, flammable chemfuel. -->
+  <ChemfuelPuddle.description>A puddle of sticky, flammable chemfuel.</ChemfuelPuddle.description>
+  <!-- EN: chemfuel trap -->
+  <ChemfuelTripwire.label>chemfuel trap</ChemfuelTripwire.label>
+  <!-- EN: A tripwire hooked up to an igniting device and installed over a puddle of flammable chemfuel. When triggered, it ignites a roaring fire in a concentrated area. Can be built next to each other. -->
+  <ChemfuelTripwire.description>A tripwire hooked up to an igniting device and installed over a puddle of flammable chemfuel. When triggered, it ignites a roaring fire in a concentrated area. Can be built next to each other.</ChemfuelTripwire.description>
+  <!-- EN: electric arc -->
+  <Electric_Arc.label>electric arc</Electric_Arc.label>
+  <!-- EN: glue trap -->
+  <GlueTrap.label>glue trap</GlueTrap.label>
+  <!-- EN: A puddle of smeared insect jelly. The substance is extremely sticky, making passage difficult. While it is waterproof and will remain sticky for a long time, the substance is also flammable. -->
+  <GlueTrap.description>A puddle of smeared insect jelly. The substance is extremely sticky, making passage difficult. While it is waterproof and will remain sticky for a long time, the substance is also flammable.</GlueTrap.description>
+  <!-- EN: grenade bouquet -->
+  <GrenadeBouquet.label>grenade bouquet</GrenadeBouquet.label>
+  <!-- EN: A tripwire hooked up to a bundle of frag grenades and a flashbang. When triggered, the grenades will depin and scatter on the ground as the flashbang detonates and stuns those nearby. Highly effective and equally destructive. -->
+  <GrenadeBouquet.description>A tripwire hooked up to a bundle of frag grenades and a flashbang. When triggered, the grenades will depin and scatter on the ground as the flashbang detonates and stuns those nearby. Highly effective and equally destructive.</GrenadeBouquet.description>
+  <!-- EN: live grenade -->
+  <Live_Grenade.label>live grenade</Live_Grenade.label>
+  <!-- EN: tesla coil -->
+  <Tesla_Coil.label>tesla coil</Tesla_Coil.label>
+  <!-- EN: A tesla coil made to be mounted on a turret. -->
+  <Tesla_Coil.description>A tesla coil made to be mounted on a turret.</Tesla_Coil.description>
+  <!-- EN: tesla coil -->
+  <Tesla_Coil.verbs.Verb_Shoot.label>tesla coil</Tesla_Coil.verbs.Verb_Shoot.label>
+  <!-- EN: tesla stunner -->
+  <Turret_TeslaStunner.label>tesla stunner</Turret_TeslaStunner.label>
+  <!-- EN: A portable tesla coil based stunning device. Requires maintenance after prolonged use and may cause an electrical explosion when damaged. When a target enters its range, it will direct an arc of electricity to continuously stun them until disabled. -->
+  <Turret_TeslaStunner.description>A portable tesla coil based stunning device. Requires maintenance after prolonged use and may cause an electrical explosion when damaged. When a target enters its range, it will direct an arc of electricity to continuously stun them until disabled.</Turret_TeslaStunner.description>
+  <!-- EN: Coil durability -->
+  <Turret_TeslaStunner.comps.CompRefuelable.fuelGizmoLabel>Coil durability</Turret_TeslaStunner.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Shots until coil change -->
+  <Turret_TeslaStunner.comps.CompRefuelable.fuelLabel>Shots until coil change</Turret_TeslaStunner.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Cannot operate: Needs maintenance -->
+  <Turret_TeslaStunner.comps.CompRefuelable.outOfFuelMessage>Cannot operate: Needs maintenance</Turret_TeslaStunner.comps.CompRefuelable.outOfFuelMessage>
+</LanguageData>

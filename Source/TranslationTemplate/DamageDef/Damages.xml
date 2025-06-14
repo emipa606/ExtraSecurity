@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: bomb -->
+  <ClusterBomb.label>bomb</ClusterBomb.label>
+  <!-- EN: {0} has died in an explosion. -->
+  <ClusterBomb.deathMessage>{0} has died in an explosion.</ClusterBomb.deathMessage>
+</LanguageData>
