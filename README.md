@@ -1,13 +1,13 @@
 # [ExtraSecurity (Continued)](https://steamcommunity.com/sharedfiles/filedetails/?id=2590690665)
 
-![Image](https://i.imgur.com/buuPQel.png)
+![Image](https://img.litet.net/logos/Info.png)
 
 Update of BoeDankles mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=2086426386
 
-![Image](https://i.imgur.com/pufA0kM.png)
+![Image](https://img.litet.net/logos/Notice.png)
 	
-![Image](https://i.imgur.com/Z4GOv8H.png)
+![Image](https://img.litet.net/logos/OriginalDescription.png)
 
 This mod adds 3 new floor traps, as well as a new short-ranged turret to the available security buildings. These new countermeasures allow players to defend their homes in a variety of ways, using materials that aren't typically used by floor traps. Information on these new traps can be found below.
 	
@@ -43,13 +43,13 @@ This mod adds 3 new floor traps, as well as a new short-ranged turret to the ava
 	
 	A very short-ranged turret which will start shocking the first person that steps inside its range. The turret will continue to target and stun the same target until they or it has been disabled. Deals stun damage which deals no hitpoints damage, but stuns mechanoids and organic beings alike.
 
-![Image](https://i.imgur.com/PwoNOj4.png)
+![Image](https://img.litet.net/logos/ReportingIssues.png)
 
 
 
 -  See if the the error persists if you just have this mod and its requirements active.
 -  If not, try adding your other mods until it happens again.
--  Post your error-log using [HugsLib](https://steamcommunity.com/workshop/filedetails/?id=818773962) or the standalone [Uploader](https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404) and command Ctrl+F12
+-  Always post your log using the [Log Uploader](https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404)
 -  For best support, please use the Discord-channel for error-reporting.
 -  Do not report errors by making a discussion-thread, I get no notification of that.
 -  If you have the solution for a problem, please post it to the GitHub repository.
@@ -57,4 +57,4 @@ This mod adds 3 new floor traps, as well as a new short-ranged turret to the ava
 
  
 
-[![Image](https://img.shields.io/github/v/release/emipa606/ExtraSecurity?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/2590690665) | tags:  defensive measures
+[![Image](https://img.shields.io/github/v/release/emipa606/ExtraSecurity?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/2590690665) | defensive measures
